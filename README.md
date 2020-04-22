@@ -1,6 +1,13 @@
 # Blake2b
 Blake2b工具类
   
+接入
+      1.repositories {
+          flatDir {
+            dirs 'libs'
+        }
+       }
+     2.implementation(name: 'blake2b-release', ext: 'aar')
 
 使用方法
   
