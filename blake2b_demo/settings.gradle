@@ -1,0 +1,2 @@
+include ':app', ':blake2b'
+rootProject.name='blake2b_demo'
