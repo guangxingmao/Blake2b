@@ -8,6 +8,6 @@ Blake2b工具类
    * outLen 输出的字节数组长度
   
    byte[] output =  Blake2bUtil.blake2b(byte[] input,int outLen);
-   具体看demo示例
+  具体看demo示例
   
   
